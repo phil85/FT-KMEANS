@@ -1,6 +1,6 @@
 # FT-KMEANS
 
-A fast algorithm for fault-tolerant facility location
+A fast algorithm for the fault-tolerant k-median problem
 
 ## Dependencies
 
