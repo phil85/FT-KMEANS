@@ -36,10 +36,10 @@ Bibtex:
 ```
 @inproceedings{baumann2022ft-kmeans,
 	author={Philipp Baumann},
-	booktitle={},
+	booktitle={Proceedings of the 2022 IEEE International Conference on Industrial Engineering and Engineering Management},
 	title={FT-KMEANS: A fast algorithm for fault-tolerant facility location},
 	year={2022},
-	pages={submitted},
+	pages={to appear},
 }
 ```
 
