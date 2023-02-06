@@ -1,3 +1,5 @@
+# © 2021, Universität Bern, Chair of Quantitative Methods, Philipp Baumann
+
 from sklearn.neighbors import KDTree
 import numpy as np
 import time
